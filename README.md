@@ -109,23 +109,15 @@ The dataset contains employee information including:
 - Most employee attrition occurs during the early years of employment.
 - Job satisfaction plays a significant role in employee retention.
 
----
-
-## Repository Structure
 
 ```
 ```
-
 ---
 
 ## Dashboard Preview
-
-> Add a screenshot of your Power BI dashboard here.
-
-Example:
+![HR Analytics Dashboard](Dashboard.png)
 
 ```
-Images/Dashboard.png
 ```
 
 ---
